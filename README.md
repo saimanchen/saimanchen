@@ -1,4 +1,4 @@
-![](https://github.com/saimanchen/saimanchen/blob/main/github_profile_header.png)
+![](https://github.com/saimanchen/saimanchen/blob/main/github_profile_header2.png)
 
 ## About Me
     I'm Saiman, a.k.a. Sai.
