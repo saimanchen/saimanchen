@@ -1,16 +1,17 @@
-# Hi, hope you're doing well! 
+# Hi, hope you're doing well! ✨
 
-I'm Saiman, a.k.a. Sai. <br>
-Soon to graduate & pursuing a career <br>
-as an Android Developer. <br>
-Happy, easy-going & disciplined. <br>
-I really really enjoy coding. <br>
+    I'm Saiman, a.k.a. Sai.
+    Soon to graduate & pursuing a career
+    as an Android Developer.
+    Happy, easy-going & disciplined.
+    I really really enjoy coding!
 
 ## Technical Skills
 ### Language:
 Kotlin, Swift, TypeScript, JavaScript, Java <br>
 
 ### Frameworks/Libraries/Tools:
+Agile - Scrum <br>
 Jetpack Compose - Android XML Layout System  <br>
 MVI - MVVM - Koin - GitHub Flow <br>
 Compose Navigation, XML Navigation Graph <br>
