@@ -24,7 +24,8 @@
 
 ## Currently working on
 ### DressYourChild:
-<img src="https://github.com/saimanchen/saimanchen/blob/main/homescreen_no_location.png" width="220" /> <img src="https://github.com/saimanchen/saimanchen/blob/main/clothingscreen_landing.png" width="220" /> <img src="https://github.com/saimanchen/saimanchen/blob/main/gamescreen_fall.png" width="220" /> <img src="https://github.com/saimanchen/saimanchen/blob/main/goalscreen_UI.png" width="220" />
+<img src="https://github.com/saimanchen/saimanchen/blob/main/homescreen_no_location.png" width="256" /> <img src="https://github.com/saimanchen/saimanchen/blob/main/clothingscreen_landing.png" width="256" /> <br>
+<img src="https://github.com/saimanchen/saimanchen/blob/main/gamescreen_fall.png" width="256" /> <img src="https://github.com/saimanchen/saimanchen/blob/main/goalscreen_UI.png" width="256" />
 
 
     It can be challenging for parents to dress their children, 
