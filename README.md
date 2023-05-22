@@ -1,5 +1,5 @@
 # Hi, hope you're doing well! ✨
-
+## About Me
     I'm Saiman, a.k.a. Sai.
     Soon to graduate & pursuing a career
     as an Android Developer.
@@ -8,18 +8,18 @@
 
 ## Technical Skills
 ### Language:
-Kotlin, Swift, TypeScript, JavaScript, Java <br>
+    Kotlin, Swift, TypeScript, JavaScript, Java
 
 ### Frameworks/Libraries/Tools:
-Agile - Scrum <br>
-Jetpack Compose - Android XML Layout System  <br>
-MVI - MVVM - Koin - GitHub Flow <br>
-Compose Navigation, XML Navigation Graph <br>
-Retrofit - Ktor - Coroutines - Flow <br>
-MongoDB - MongoDB Realm - Room <br>
-Multiplatform Settings - Maps SDK <br>
-Firebase Firestore - Firebase Cloud Storage <br>
-Node.js - Mongoose - Fastify <br>
-React Native - Docker - Figma <br>
+    Agile - Scrum
+    Jetpack Compose - Android XML Layout System
+    MVI - MVVM - Koin - GitHub Flow
+    Compose Navigation, XML Navigation Graph
+    Retrofit - Ktor - Coroutines - Flow
+    MongoDB - MongoDB Realm - Room
+    Multiplatform Settings - Maps SDK
+    Firebase Firestore - Firebase Cloud Storage
+    Node.js - Mongoose - Fastify
+    React Native - Docker - Figma
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanchen)](https://github.com/anuraghazra/github-readme-stats)
