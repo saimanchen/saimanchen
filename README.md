@@ -1,4 +1,5 @@
-# Hi, hope you're doing well! ✨
+![](https://github.com/saimanchen/saimanchen/blob/main/github_profile_header.png)
+
 ## About Me
     I'm Saiman, a.k.a. Sai.
     Soon to graduate & pursuing a career
