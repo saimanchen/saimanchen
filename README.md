@@ -22,4 +22,26 @@
     Node.js - Mongoose - Fastify
     React Native - Docker - Figma
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanchen)](https://github.com/anuraghazra/github-readme-stats)
+## Currently working on
+### DressYourChild:
+
+
+    It can be challenging for parents to dress their children, 
+    especially during seasons when the weather conditions change
+    from day to day. Dressing children in too little or too much 
+    clothing can make them feel uncomfortable or, in the worst case, 
+    catch a cold. It can also be difficult to get children to cooperate, 
+    which can lead to stressful mornings for parents.
+
+    This app is built to help parents of young children dress their kids 
+    in a simple and efficient way depending on the weather. The app takes
+    into account factors such as temperature and weather conditions like 
+    rain, snow, sun, and wind. Depending on the weather, parents are given 
+    recommendations for different clothing items in the form of a list.
+
+    'Dress your child' also includes a game to make it more interactive and 
+    fun for the children. The entire game is based on a clothing item list, 
+    where each item represents a game level.
+
+    The idea is that by turning dressing into a game, parents and children 
+    can have a more positive and enjoyable experience together in the mornings.
