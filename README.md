@@ -49,6 +49,6 @@
     The idea is that by turning dressing into a game, parents and children 
     can have a more positive and enjoyable experience together in the mornings.
 
-Unfortunately, I'm unable to show the code here as it belongs to a private <br>
-repository within my internship's GitHub organization. But here is a video demo of <br>
-its current state: [Dress Your Child](https://www.youtube.com/watch?v=t_I3J_Aw_qQ)
+Unfortunately, I'm unable to show the code here as it's a private repository <br>
+within my internship's GitHub organization. But here is a video demo of its <br>
+current state: [Dress Your Child](https://www.youtube.com/watch?v=t_I3J_Aw_qQ)
