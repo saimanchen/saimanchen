@@ -2,14 +2,14 @@
 
 ## About Me
     I'm Saiman, a.k.a. Sai.
-    Soon to graduate & pursuing a career
+    Recently graduated & pursuing a career
     as an Android Developer.
     Happy, easy-going & disciplined.
     I really really enjoy coding!
 
 ## Technical Skills
 ### Language:
-    Kotlin, Swift, TypeScript, JavaScript, Java
+    Kotlin, Swift, TypeScript, JavaScript
 
 ### Frameworks/Libraries/Tools:
     Agile - Scrum
