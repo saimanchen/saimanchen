@@ -22,4 +22,4 @@
     React Native - Docker - Figma
 
 ## Currently working on
-[Diary with Google Authentication & Realm Sync](https://www.youtube.com/watch?v=t_I3J_Aw_qQ)
+[Diary with Google Authentication & Realm Sync](https://github.com/saimanchen/DiaryApp)
